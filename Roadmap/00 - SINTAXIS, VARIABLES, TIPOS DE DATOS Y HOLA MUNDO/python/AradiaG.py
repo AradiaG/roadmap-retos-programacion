@@ -1,3 +1,4 @@
+
 #Comentario en una linea
 # https://www.python.org/
 """
@@ -16,13 +17,7 @@ MY_CONSTANTE = "No deja de ser una variable"
 
 #Datos primitivos:
 
-my_int = 1
-my_float = 1.1
-my_char = Hola
-my_bool = True
-
 #Imprimir en consola: "¡Hola, [y el nombre de tu lenguaje]!"
 
-print("¡Hola, Python!")
-      
+print("¡Hola, Python!")      
 
